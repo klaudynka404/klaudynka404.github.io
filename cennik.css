@@ -167,6 +167,12 @@ hr {
 	width: 25%;
 }
 
+@media (max-width: 770px) {
+	.price {
+		width: auto;
+	}
+}
+
 /* Footer */
 
 footer {
